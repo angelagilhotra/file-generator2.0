@@ -9,8 +9,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "chalk": "^2.4.1",
     "chalk-pipe": "^2.0.0",
     "commander": "^2.19.0",
-    "inquirer": "^6.2.0"
+    "inquirer": "^6.2.0",
+    "minimist": "^1.2.0",
+    "node-emoji": "^1.8.1",
+    "shelljs": "^0.8.2"
   }
 }
